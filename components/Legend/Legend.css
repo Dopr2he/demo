@@ -1,0 +1,25 @@
+.legned-box {
+    padding-top: 12px;
+    padding-left: 10px;
+}
+
+#legend-title {
+    font-size: 14px;
+    color: #03C5D4;
+    line-height: 14px;
+    margin-bottom: 7px;
+}
+
+.legend-color {
+    width: 16px;
+    height: 10px;
+    border-radius: 2px;
+    display: inline-block;
+}
+
+.legend-name {
+    font-size: 12px;
+    color: #03C5D4;
+    line-height: 14px;
+    margin-left: 10px;
+}
